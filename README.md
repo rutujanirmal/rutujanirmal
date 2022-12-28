@@ -22,4 +22,4 @@ _**Myself Rutuja Nirmal**_
 &emsp; ![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-indigo) ![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-indigo) ![DS](https://img.shields.io/badge/DS-Data%20Science-indigo) 
 
 ### 🔥 Jack of all master of one
-&emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujanirmal&layout=compact)](https://github.com/selectus2/github-readme-stats)
+&emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujanirmal&layout=compact)](https://github.com/rutujanirmal/github-readme-stats)
